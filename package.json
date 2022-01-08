@@ -30,6 +30,7 @@
   "main": "src/node/cjs.js",
   "module": "src/node/index.mjs",
   "bugs": "https://github.com/gchq/CyberChef/issues",
+  "module": "CommonJS"
   "browserslist": [
     "Chrome >= 50",
     "Firefox >= 38",
